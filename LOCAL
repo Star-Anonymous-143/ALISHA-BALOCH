@@ -1,5 +1,5 @@
-loc1 = "en_US"
-cod1 = "US"
+loc1 = 'en_US'
+cod1 = 'US'
 loc2 = "en_US"
 cod2 = "US"
 loc3 = "en_US"
