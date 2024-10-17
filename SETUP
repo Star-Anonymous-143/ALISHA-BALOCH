@@ -1,0 +1,2 @@
+def paid1():
+    paid = Free()
